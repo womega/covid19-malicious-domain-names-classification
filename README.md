@@ -1,1 +1,1 @@
-#COVID-19 Malicious Domain Names Classification
+# COVID-19 Malicious Domain Names Classification
