@@ -1,4 +1,4 @@
-# COVID-19 Malicious Domain Names Classification
+# COVID-19 Malicious Domain Names Classification (under review)
 
 ---
 
@@ -8,6 +8,7 @@
 
 Article link:
 
+***to be updated***
 [ESWA](https://www.journals.elsevier.com/expert-systems-with-applications)
 
 ---
@@ -20,4 +21,4 @@ The extracted features can be exploited by conventional machine learning algorit
 
 Cite as:
 
-...
+***to be updated upon acceptance***
