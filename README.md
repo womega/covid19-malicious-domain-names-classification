@@ -9,6 +9,7 @@
 ## Article link:
 
 ***to be updated***
+
 [ESWA](https://www.journals.elsevier.com/expert-systems-with-applications)
 
 ---
@@ -30,7 +31,7 @@ The extracted features can be exploited by conventional machine learning algorit
 Feature | Type | Description |
 --------|------|-------------|
 Domain |	string|	|the domain name|
-Num_words|	integer|	the number of words in the domain, extracted using WordNinja|
+Num_words|	integer|	the number of words in the domain, extracted using [wordninja](https://github.com/keredson/wordninja)|
 Num_chars|	integer|	the number of characters in the domain|
 Hyphen|	boolean|	contains hyphens?|
 Entropy_sdsu|	float|	entropy with SLD and Suffix|
@@ -38,7 +39,7 @@ Entropy_nosdsu|	float|	entropy without SLD and Suffix|
 Entropy_nosu|	float|	entropy without Suffix|
 Tranco_Rank|	boolean|	on Tranco List ?|
 Longest_word_ratio|	float|	Ratio of the longest word to length of domain|
-Typos|	boolean|	contains typos?|
+Typos|	boolean|	contains typos? (typos generated using [dnstwist](https://github.com/elceef/dnstwist))|
 Freenom_TLD|	boolean	|Freenom suffix?|
 Other_numbers|	boolean|	Other numbers than 19?|
 Subdomain levels|	integer|	Number of Sub-domain levels|
