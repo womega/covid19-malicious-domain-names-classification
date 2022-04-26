@@ -21,7 +21,9 @@ The repository is organized as follows:
 
 * **benign_domains** - contains all the examples of benign domains in csv format
 * **malign_domains** - contains all the examples of malign domains in csv format
+* **dataset** - contains the malign and benign domains in csv format
 * **dataset_description** - contains the main characteristics of the dataset
+* **evaluate.py** - runs all the evaluations (online and oflline) and builds the tables/figures in the paper using the **imports_.py**, **offline_eval.py**, **online_eval.py**, **helper_functions.py** scripts.
 
 The extracted features can be exploited by conventional machine learning algorithms or combined with other features for experiments.
 
