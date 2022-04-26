@@ -15,7 +15,7 @@
 ---
 ## Description
 
-This repository includes the dataset and feature descriptions used in the article above.
+This repository includes the dataset feature descriptions and code used in the article above.
 
 The repository is organized as follows:
 
