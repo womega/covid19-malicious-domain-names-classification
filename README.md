@@ -1,4 +1,4 @@
-# COVID-19 Malicious Domain Names Classification (under review)
+# COVID-19 Malicious Domain Names Classification
 
 ---
 
@@ -9,6 +9,8 @@
 ## Article link:
 
 [COVID-19 malicious domain names classification](https://doi.org/10.1016/j.eswa.2022.117553)
+
+The code (and data) in this article has been certified as Reproducible by [Code Ocean](https://codeocean.com/). To reproduce these experiments, please follow think [link](https://codeocean.com/capsule/2379125/tree/v1).
 
 ---
 ## Description
@@ -49,7 +51,7 @@ Label|	integer|	1: legitimate, 0: malicious|
 
 ---
 
-Cite as:
+Cite article as:
 
 
 @article{10.1016/j.eswa.2022.117553, 
@@ -67,3 +69,20 @@ Cite as:
          month = {oct}, 
          numpages = {10}, 
          keywords = {Hoeffding trees, Cybersecurity, Online learning, Phishing attacks, Supervised learning, Machine learning} }
+   
+- Code Ocean
+
+@misc{mvula_covid-19_2022,
+	title = {{COVID}-19 {Malicious} {Domain} {Names} {Classification}},
+	copyright = {MIT License, Creative Commons Attribution Non Commercial 4.0 International},
+	url = {https://codeocean.com/capsule/2379125/tree/v1},
+	abstract = {The capsule contains code to reproduce results in our paper titled "COVID-19 Malicious Domain Names Classification".},
+	urldate = {2022-05-04},
+	publisher = {Code Ocean},
+	author = {Mvula, Paul and Branco, Paula and Guy-Vincent Jourdan and Viktor, Herna},
+	year = {2022},
+	doi = {10.24433/CO.0525147.V1},
+	note = {Language: en},
+	keywords = {machine learning, cybersecurity, COVID-19, Capsule, Computer Science},
+}
+
