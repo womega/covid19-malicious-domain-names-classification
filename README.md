@@ -10,7 +10,7 @@
 
 [COVID-19 malicious domain names classification](https://doi.org/10.1016/j.eswa.2022.117553)
 
-The code (and data) in this article has been certified as Reproducible by [Code Ocean](https://codeocean.com/). To reproduce these experiments, please follow think [link](https://codeocean.com/capsule/2379125/tree/v1).
+The code (and data) in this article has been certified as Reproducible by [Code Ocean](https://codeocean.com/). To reproduce these experiments, please follow this [link](https://codeocean.com/capsule/2379125/tree/v1).
 
 ---
 ## Description
