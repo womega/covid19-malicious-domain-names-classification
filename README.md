@@ -51,7 +51,7 @@ Label|	integer|	1: legitimate, 0: malicious|
 
 ---
 
-Cite article as:
+- Cite as:
 
 
 @article{10.1016/j.eswa.2022.117553, 
