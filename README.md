@@ -8,9 +8,7 @@
 
 ## Article link:
 
-***to be updated***
-
-[ESWA](https://www.journals.elsevier.com/expert-systems-with-applications)
+[COVID-19 malicious domain names classification](https://doi.org/10.1016/j.eswa.2022.117553)
 
 ---
 ## Description
@@ -53,4 +51,19 @@ Label|	integer|	1: legitimate, 0: malicious|
 
 Cite as:
 
-***to be updated upon acceptance***
+
+@article{10.1016/j.eswa.2022.117553, 
+         author = {Mvula, Paul K. and Branco, Paula and Jourdan, Guy-Vincent and Viktor, Herna L.}, 
+         title = {COVID-19 Malicious Domain Names Classification▪}, 
+         year = {2022}, issue_date = {Oct 2022}, 
+         publisher = {Pergamon Press, Inc.}, 
+         address = {USA}, 
+         volume = {204}, 
+         number = {C}, 
+         issn = {0957-4174}, 
+         url = {https://doi.org/10.1016/j.eswa.2022.117553}, 
+         doi = {10.1016/j.eswa.2022.117553}, 
+         journal = {Expert Syst. Appl.}, 
+         month = {oct}, 
+         numpages = {10}, 
+         keywords = {Hoeffding trees, Cybersecurity, Online learning, Phishing attacks, Supervised learning, Machine learning} }
