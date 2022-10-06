@@ -70,7 +70,7 @@ Label|	integer|	1: legitimate, 0: malicious|
          numpages = {10}, 
          keywords = {Hoeffding trees, Cybersecurity, Online learning, Phishing attacks, Supervised learning, Machine learning} }
    
-- Code Ocean
+- Code Ocean:
 
 @misc{mvula_covid-19_2022,
 	title = {{COVID}-19 {Malicious} {Domain} {Names} {Classification}},
