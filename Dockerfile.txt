@@ -1,0 +1,16 @@
+# hash:sha256:2e6872f92073f4ed10e32744c68dc738faa15dd7e390e8e361802fbc185d9ccc
+FROM registry.codeocean.com/codeocean/miniconda3:4.3.30-python3.6.3-ubuntu16.04
+
+ARG DEBIAN_FRONTEND=noninteractive
+
+RUN conda install -y \
+        matplotlib==3.3.4 \
+        pandas==1.1.5 \
+        scikit-learn==0.24.2 \
+        xgboost==1.3.3 \
+    && conda clean -ya
+
+RUN pip install -U --no-cache-dir --upgrade-strategy=only-if-needed \
+    imbalanced-learn==0.8.1 \
+    numpy==1.19.5 \
+    scikit-multiflow==0.5.3
